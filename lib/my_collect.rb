@@ -7,3 +7,5 @@ def my_collect(arr)
   end
   new_arr
 end
+
+myCollect(arg)
